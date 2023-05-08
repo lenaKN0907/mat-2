@@ -8,3 +8,25 @@
 <link rel="stylesheet" href"style, css"
 </head>
 <body>
+<header class="cabeçalho">
+<img class="cabeçalho longo" src="CEEV logo.png" alt="Logo do colégio">
+<ul class ="cabeçalho lista">
+<li="cabeçalho-itens">Alunos</li>
+<li class="cabeçalho- itens">Professores</li>
+</ul>
+
+</header>
+<section class= "escola">
+<h1 class="escola-título">COLÉGIO ESTADUAL ÉRICO VERÍSSIMO - FAXINAL - PR</h1>
+
+<p class="escola- paragrafo">ESCOLA INTEGRAL </p>
+
+
+
+
+<div class="galeria-todos">
+
+</div>
+</section>
+<section class="galeria">
+    <h2 class="galeria-título">Galeria</h2>
